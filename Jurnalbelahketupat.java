@@ -9,6 +9,7 @@ public class Jurnalbelahketupat {
         int n=0;
         
         Scanner scn= new Scanner(System.in);
+        System.out.println("EDIT BELAH KETUPAT NUR CHAIRUL SYAM")
         System.out.println("Masukkan angka : ");
         for(i=0; i<n; i++){
             for(y=1; y<=n; y++){
